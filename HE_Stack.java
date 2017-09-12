@@ -20,6 +20,7 @@ class Solution
 		System.out.println("Amount monk should have:");
 		int at = in.nextInt();
 		
+		System.out.println("Enter the instructions:");
 		ArrayList<String> str = new ArrayList<>();
 		for(int i=0;i<ins;i++)
 		{
