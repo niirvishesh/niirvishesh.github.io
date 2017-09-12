@@ -15,10 +15,9 @@ class TestClass
         int Q=sc.nextInt();
         int X=sc.nextInt();
         int in=0,sum=0;
-        sc.nextLine();
         for(int l=0;l<Q;l++)
         {
-            String st=sc.nextLine();
+            String st=sc.next();
             if(st.equals("Harry"))
             {
                 s.push(a[in]);
