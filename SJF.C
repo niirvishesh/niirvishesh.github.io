@@ -26,12 +26,6 @@ void main()
 			}
 		}
 	}
-	
-	for(i=0;i<n;i++)
-	{
-		printf("%d\t%d\n",bt[i],at[i]);
-	}
-	
 	printf("Burst time, Arrival time and Turn-around time of processes are:\n");
 	wt[0]=0;
 	for(i=0;i<n;i++)
