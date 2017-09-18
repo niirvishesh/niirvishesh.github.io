@@ -14,7 +14,7 @@ void main()
 		printf("Process[%d]: ",i+1);
 		scanf("%d %d",&bt[i],&at[i]);
 	}
-	for(i=0;i<n;i++)
+	for(i=1;i<n;i++)
 	{
 		for(j=i+1;j<n;j++)
 		{
