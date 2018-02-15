@@ -43,3 +43,7 @@ img:hover {
 .alg {
     text-align:center;
     }
+/* Warning */
+.warn {
+    color:#66020c;
+}
