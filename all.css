@@ -1,3 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,900|Montez);
+.img {
+  margin: 40px auto 0;
+  width: 500px;
+  display: block;
+}
+.img img {
+  width: 100%;
+  border-radius: 5px;
+}
+
+
 /* Glowing Effect */
 .glow {
     -webkit-animation-duration: 1s;
