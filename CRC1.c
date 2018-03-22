@@ -14,7 +14,7 @@ int main()
     
     printf("Enter no. of bits for divisor : \n");
     scanf("%d",&b);
-    printf("Enter dividend : \n");
+    printf("Enter divisor : \n");
     for(i=0;i<b;i++)
     {
         scanf("%d",&brr[i]);
